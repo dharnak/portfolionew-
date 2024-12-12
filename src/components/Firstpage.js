@@ -7,7 +7,7 @@ export const Firstpage = () => {
         <div className='bg1 flex justify-center gap-40 pt-28'>
             <div>
                 <h1 className='firstfont'>I am Dharneesh Thangavel</h1>
-               <h1 className='secondfont'>Web Developer +<br/>
+               <h1 className='secondfont'>Web Developer ++<br/>
                   MERN Developer</h1>
                   <h4 className='secondfont1'>I break down complex user experinece problems to create<br/> integritiy focussed solutions that connect billions<br/> of people</h4>
                   <div className='pt-10 flex gap-6'>
